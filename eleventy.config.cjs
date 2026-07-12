@@ -8,7 +8,7 @@ module.exports.config = {
 
   dir: {
     input: "src",
-    output: "public",
+    output: "docs",
   }
 
 };
