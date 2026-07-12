@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dnd"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ethravos.github.io"
+	}
+}
