@@ -1,0 +1,19 @@
+current directory: /home/latarch/core/projects/ethravos.github.io/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/usr/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/latarch/core/projects/ethravos.github.io/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260712-28842-la0z5z sitelibdir\=./.gem.20260712-28842-la0z5z clean
+
+current directory: /home/latarch/core/projects/ethravos.github.io/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260712-28842-la0z5z sitelibdir\=./.gem.20260712-28842-la0z5z
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/latarch/core/projects/ethravos.github.io/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260712-28842-la0z5z sitelibdir\=./.gem.20260712-28842-la0z5z install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20260712-28842-la0z5z
+
+current directory: /home/latarch/core/projects/ethravos.github.io/ruby/3.4.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260712-28842-la0z5z sitelibdir\=./.gem.20260712-28842-la0z5z clean
