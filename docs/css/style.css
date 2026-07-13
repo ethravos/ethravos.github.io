@@ -5,6 +5,11 @@
     padding: 0;
 }
 
+* a {
+    text-decoration: none;
+    color: #ff8080;
+}
+
 html {
     background-color: #000;
     color: #ddd;
@@ -28,7 +33,7 @@ body {
 .banner-img {
     display: flex;
     width: 100%;
-    background-image: linear-gradient(to top, #000000, #00000000), url("assets/images/ethravos-map-v1.png");
+    background-image: linear-gradient(to top, #000000, #00000000), url("/assets/images/ethravos-map-v1.png");
     height: 300px;
     background-position: center;
     background-repeat: no-repeat;
@@ -79,9 +84,9 @@ body {
     margin: 20px;
 }
 
-.header-main {
+.main-body-text h1 {
     font-size: 36px;
-    color: #ff8080;
+    color: #ff6060;
 }
 
 .content-main {
