@@ -18,9 +18,7 @@
   },
   "homepage": "https://github.com/ethravos/ethravos.github.io#readme",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.6",
-    "@11ty/eleventy-img": "^6.0.4",
-    "markdown-it": "^14.3.0"
+    "@11ty/eleventy": "^3.1.6"
   },
   "directories": {
     "doc": "docs"
@@ -30,6 +28,8 @@
     "sharp@0.33.5": true
   },
   "devDependencies": {
+    "markdown-it": "^14.3.0",
+    "markdown-it-attrs": "^5.0.0",
     "markdown-it-eleventy-img": "^0.10.2"
   }
 }

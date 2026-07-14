@@ -1,12 +1,4 @@
 const markdownIt = require("markdown-it");
-// const interlinker = require("@photogabble/eleventy-plugin-interlinker");
-const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
-
-// IMAGES
-
-module.exports = function (eleventyConfig) {
-	eleventyConfig.addPlugin(eleventyImageTransformPlugin);
-};
 
 // MARKDOWN-IT
 
@@ -16,27 +8,16 @@ module.exports = function (eleventyConfig) {
 		breaks: true,
 		linkify: true,
 	};
-
+	let markdownLib = markdownIt(options).use(markdownItAttrs);
 	eleventyConfig.setLibrary("md", markdownIt(options));
+	eleventyConfig.setLibrary("md", markdownLib);
 };
-
-// WIKI LINKS
-
-// module.exports = function (eleventyConfig) {
-// 	eleventyConfig.addPlugin(interlinker, {
-// 		defaultLayout: '_includes/base.html'
-// 	});
-// };
-
-// module.exports = function (eleventyConfig) {
-// 	eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(replace-link));
-// };
 
 // CSS
 
 module.exports = function (eleventyConfig) {
 
-  eleventyConfig.addPassthroughCopy("./src/css");
+  eleventyConfig.addPassthroughCopy("css");
 
 };
 
