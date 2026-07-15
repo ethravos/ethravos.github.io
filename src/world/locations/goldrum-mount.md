@@ -1,7 +1,8 @@
 ---
 title: Goldrum Mount
 layout: locations.html
-tags: location
+tags: 
+    - locations
 # permalink: "world/locations/{{ title }}/"
 ---
 # {{ title }}

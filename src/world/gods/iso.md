@@ -1,6 +1,8 @@
 ---
 title: Iso
 layout: gods.html
+tags:
+    - gods
 ---
 # {{ title }}
 

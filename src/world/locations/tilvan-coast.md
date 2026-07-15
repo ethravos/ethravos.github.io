@@ -1,6 +1,7 @@
 ---
 title: Tilvan Coast
 layout: locations.html
-tags: location
+tags: 
+    - locations
 ---
 # {{ title }}

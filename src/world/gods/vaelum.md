@@ -1,6 +1,8 @@
 ---
 title: Vaelum
 layout: gods.html
+tags:
+    - gods
 ---
 # {{ title }}
 

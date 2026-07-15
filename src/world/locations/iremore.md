@@ -1,6 +1,7 @@
 ---
 title: Iremore
 layout: locations.html
-tags: location
+tags: 
+    - locations
 ---
 # {{ title }}

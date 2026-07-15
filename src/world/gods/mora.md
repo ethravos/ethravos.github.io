@@ -1,6 +1,8 @@
 ---
 title: Mora
 layout: gods.html
+tags:
+    - gods
 ---
 # {{ title }}
 

@@ -1,7 +1,8 @@
 ---
 title: Feylum Forest
 layout: locations.html
-tags: location
+tags: 
+    - locations
 ---
 # {{ title }}
 

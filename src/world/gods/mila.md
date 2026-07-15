@@ -1,6 +1,8 @@
 ---
 title: Mila
 layout: gods.html
+tags:
+    - gods
 ---
 # {{ title }}
 

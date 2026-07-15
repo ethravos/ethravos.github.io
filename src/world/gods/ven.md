@@ -1,6 +1,8 @@
 ---
 title: Ven
 layout: gods.html
+tags:
+    - gods
 ---
 # {{ title }}
 

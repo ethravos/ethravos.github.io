@@ -1,6 +1,7 @@
 ---
 title: Goldrum Sol Library
 layout: locations.html
-tags: location
+tags: 
+    - locations
 ---
 # {{ title }}

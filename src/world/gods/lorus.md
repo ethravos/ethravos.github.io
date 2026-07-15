@@ -1,6 +1,8 @@
 ---
 title: Lorus
 layout: gods.html
+tags:
+    - gods
 ---
 # {{ title }}
 

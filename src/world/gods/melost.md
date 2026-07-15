@@ -1,6 +1,8 @@
 ---
 title: Melost
 layout: gods.html
+tags:
+    - gods
 ---
 # {{ title }}
 

@@ -1,7 +1,8 @@
 ---
 title: Lothren
 layout: base.html
-tags: location
+tags: 
+    - locations
 ---
 # {{ title }}
 
