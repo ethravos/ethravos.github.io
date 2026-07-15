@@ -1,6 +1,6 @@
 ---
 title: Lothren
-layout: base.html
+layout: locations.html
 tags: 
     - locations
 ---

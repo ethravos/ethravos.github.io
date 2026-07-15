@@ -1,6 +1,6 @@
 ---
 title: Sessions
-layout: sessions.html
+layout: base.html
 ---
 # {{ title }}
 

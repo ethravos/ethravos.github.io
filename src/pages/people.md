@@ -1,6 +1,6 @@
 ---
 title: People
-layout: people.html
+layout: base.html
 ---
 # {{ title }}
 
