@@ -1,6 +1,12 @@
 ---
 title: Organizations
 layout: base.html
+page-links: |
+    <div class="backlink-footer">
+        {% for link in backlinks %}
+            <a href="{{ link.url }}">{{link.title}}</a>
+        {% endfor %}
+    </div>
 ---
 # {{ title }}
 
