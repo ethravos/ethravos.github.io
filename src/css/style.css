@@ -89,10 +89,29 @@ body {
     color: #ff6060;
 }
 
-.content-main {
-    font-size: 20px;
+.main-body-text h1 {
+    font-size: 36px;
+    color: #ff6060;
 }
 
-.style-me {
-    color: white;
+.content-main {
+    font-size: 16px;
+}
+
+.backlink-footer {
+    background-color: #fff;
+    position: absolute;
+    top: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 20px;
+    color: blue;
+}
+
+.page-list {
+    margin: 20px 40px;
+    font-size: 20px;
+    justify-content: center;
+    justify-items: center;
 }

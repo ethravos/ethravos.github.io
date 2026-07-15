@@ -26,14 +26,9 @@
                 <div class="content-main">
                     <div class="main-body-text">
                         {{ content }}
-                        <br>
-                        <hr>
-                        <br>
-                        {% for link in backlinks %}
-                        <li>
-                            <a href="{{ link.url }}">{{link.title}}</a>
-                        </li>
-                        {% endfor %}
+                    </div>
+                    <div class="backlink-footer">
+                        {{ page-links}}
                     </div>
                 </div>
             </div>

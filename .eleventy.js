@@ -8,6 +8,7 @@ export default function (eleventyConfig) {
 		breaks: true,
 		linkify: true,
 	};
+    eleventyConfig.setLibrary("md", markdownIt(options));
     eleventyConfig.addPlugin(eleventyBacklinks, {
 		folder: '/notes', // The folder with your notes
 		getData(note) {
@@ -19,9 +20,8 @@ export default function (eleventyConfig) {
 	});
     eleventyConfig.setInputDirectory("src");
     eleventyConfig.setOutputDirectory("docs");
-	eleventyConfig.setLibrary("md", markdownIt(options));
-    eleventyConfig.addPassthroughCopy("css");
-	eleventyConfig.addPassthroughCopy("assets");
+    eleventyConfig.addPassthroughCopy("./src/css");
+	eleventyConfig.addPassthroughCopy("./src/assets/");
 	// eleventyConfig.addPassthroughCopy("/src/**/*.jpg");
     // eleventyConfig.addPassthroughCopy("/src/**/*.png");
     // eleventyConfig.addPassthroughCopy("/src/**/*.svg");
@@ -33,7 +33,8 @@ export default function (eleventyConfig) {
     return {
         markdownTemplateEngine: "njk",
         input: "src",
-        output: "docs"
+        output: "docs",
+        // passthroughFileCopy: true,
     }
 };
 
