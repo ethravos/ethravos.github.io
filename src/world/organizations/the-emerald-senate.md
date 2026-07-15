@@ -7,5 +7,3 @@ aliases:
     - Emerald Senate
 ---
 # {{ title }}
-
-[[testing]]

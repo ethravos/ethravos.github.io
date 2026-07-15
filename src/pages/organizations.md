@@ -9,11 +9,3 @@ layout: base.html
 [{{ organizations.data.title}}]({{ organizations.url }})
 
 {% endfor %}
-
----
-
-{% for link in collections.backlinks %}
-
-[{{ link.data.title }}]({{ link.url }})
-
-{% endfor %}
