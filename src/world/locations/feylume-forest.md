@@ -1,8 +1,10 @@
 ---
-title: Feylum Forest
+title: Feylume Forest
 layout: locations.html
 tags: 
     - locations
+aliases:
+    - Feylume
 ---
 # {{ title }}
 
