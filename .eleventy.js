@@ -21,6 +21,7 @@ export default function (eleventyConfig) {
     eleventyConfig.setInputDirectory("src");
     eleventyConfig.setOutputDirectory("docs");
     eleventyConfig.addPassthroughCopy("./src/css");
+    eleventyConfig.addPassthroughCopy("./src/scripts/testing.js");
 	eleventyConfig.addPassthroughCopy("./src/assets/");
 	// eleventyConfig.addPassthroughCopy("/src/**/*.jpg");
     // eleventyConfig.addPassthroughCopy("/src/**/*.png");

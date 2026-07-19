@@ -21,3 +21,7 @@ Whisper began denying these contracts coming in...
 Soon after he began to deny these contracts, he was pressured by the new leadership which had seemed to have taken hold of the Hollow Keys. Whisper stood his ground, though, and has been paranoid of the possible retaliation that could be headed his way...
 
 [[Emerald Senate]]
+
+<div class="character-img">
+    <img src="{{ image }}" alt="">
+</div>

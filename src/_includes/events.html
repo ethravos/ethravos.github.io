@@ -30,6 +30,9 @@
                             {{ content }}
                         </div>
                         <div class="backlink-footer">
+                            <div class="character-img">
+                                <img src="{{ image }}" alt="">
+                            </div>
                             {% for link in backlinks %}
                                 <a href="{{ link.url }}">{{link.title}}</a>
                             {% endfor %}
