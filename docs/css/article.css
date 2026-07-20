@@ -1,0 +1,67 @@
+/* IMPORTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url(nav.css);
+@import url(global.css);
+
+/* VARIABLES */
+
+:root {
+    --simple-outline: solid 1px #eee;
+}
+
+/* ARTICLE */
+
+.content-wrapper {
+    display: flex;
+    width: max-content;
+    width: 100%;
+}
+
+.content__body {
+    /* width: max-content; */
+    /* width: 100%; */
+    flex-grow: 1;
+}
+
+.content__body a {
+    text-decoration: none;
+    color: #fff;
+    background-color: #194a25;
+    padding: 0px 4px;
+}
+
+.content__side {
+    width: 30%;
+    border: var(--simple-outline);
+    margin: 20px;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.side__image {
+    /* margin: 4px; */
+    padding-top: 100%;
+    position: relative;
+    overflow: hidden;
+    border: var(--simple-outline);
+}
+
+.side__image img {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    object-fit: cover;
+}
+
+.side__about {
+    border: var(--simple-outline);
+    padding: 2px 6px;
+}
+
+.side__links {
+    border: var(--simple-outline);
+    padding: 2px 6px;
+}

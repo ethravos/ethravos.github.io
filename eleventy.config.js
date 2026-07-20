@@ -1,8 +1,24 @@
 // IMPORTS
+import markdownIt from "markdown-it";
+import interlinker from "@photogabble/eleventy-plugin-interlinker";
 
 // MAIN CONFIG
 
 export default function (eleventyConfig) {
+
+    eleventyConfig.addPlugin(interlinker);
+
+    // MARKDOWN-IT
+
+    let options = {
+		html: true,
+		breaks: true,
+		linkify: true,
+	};
+    eleventyConfig.setLibrary("md", markdownIt(options));
+
+    // MAIN
+
     eleventyConfig.addPassthroughCopy("src/css");
     eleventyConfig.addPassthroughCopy("src/assets/");
     eleventyConfig.addPassthroughCopy("src/scripts/");
