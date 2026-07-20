@@ -1,13 +1,13 @@
 ---
 title: Gods
-layout: base.html
+layout: layouts/page.html
+tag:
+    - pages
 ---
 # {{ title }}
 
-<div class="page-list">
 {% for gods in collections.gods %}
 
 [{{ gods.data.title}}]({{ gods.url }})
 
 {% endfor %}
-</div>

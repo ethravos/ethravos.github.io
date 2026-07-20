@@ -1,8 +1,8 @@
 ---
-layout: base.html
+layout: layouts/base.html
 title: Ethravos
 ---
+
 # {{ title }}
 
-This is the world of Ethravos
-
+This is a test of 11ty right now.

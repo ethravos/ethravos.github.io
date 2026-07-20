@@ -1,13 +1,13 @@
 ---
 title: Sessions
-layout: base.html
+layout: layouts/page.html
+tag:
+    - pages
 ---
 # {{ title }}
 
-<div class="page-link-list">
 {% for sessions in collections.sessions %}
 
 [{{ sessions.data.title}}]({{ sessions.url }})
 
 {% endfor %}
-</div>

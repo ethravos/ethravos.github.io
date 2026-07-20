@@ -1,13 +1,13 @@
 ---
 title: Events
-layout: base.html
+layout: layouts/page.html
+tag:
+    - pages
 ---
 # {{ title }}
 
-<div class="page-link-list">
 {% for events in collections.events %}
 
 [{{ events.data.title}}]({{ events.url }})
 
 {% endfor %}
-</div>

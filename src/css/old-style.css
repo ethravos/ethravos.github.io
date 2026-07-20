@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+* a {
+    text-decoration: none;
+    color: #ff8080;
+}
+
+html {
+    background-color: #000;
+    color: #ddd;
+}
+
+/* MAIN STYLING */
+
+body {
+    box-sizing: border-box;
+    top: 0px; left: 0px;
+    width: 100%;
+    font-family: "Grenze Gotisch", serif;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.banner-img {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+    background-position: center;
+}
+
+.banner-img img {
+    width: 100vw;
+    object-fit: cover;
+}
+
+.character-img {
+    display: flex;
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+}
+
+.character-img img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.main-wrapper {
+    width: 100%;
+    display: flex;
+}
+
+.nav-header {
+    font-size: 24px;
+}
+
+.nav-menu {
+    margin: 20px;
+    padding: 20px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px #ffffff40;
+    white-space: nowrap;
+    gap: 4px;
+}
+
+.nav-item {
+    border: solid 1px #ffffff40;
+    padding: 2px 8px 2px 8px;
+}
+
+.nav-item a {
+    font-size: 20px;
+    color: #8080ff;
+    text-decoration: none;
+}
+
+.home-button {
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    color: #fff;
+}
+
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    width: 100%;
+}
+
+.content-main {
+    /* flex: 1; */
+    font-size: 18px;
+    display: flex;
+    width: 100%;
+}
+
+.main-body-text {
+    flex: 1;
+}
+
+.main-body-text h1 {
+    font-size: 36px;
+    color: #ff6060;
+}
+
+.page-link-list {
+    font-size: 24px;
+    text-decoration: #ff8080 underline;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 8px 12px;
+}
+
+/* .page-link-list p {
+    padding: 4px 8px;
+    border: solid 1px #ffffff40;
+} */
+
+.backlink-footer {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    color: blue;
+    margin: 20px;
+    padding: 20px;
+    min-width: 150px;
+    max-width: fit-content;
+    border: solid 1px #ffffff40;
+    white-space: nowrap;
+}
+
+.backlink-footer a {
+    border: solid 1px #ffffff40;
+    padding: 2px 8px 2px 8px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.page-list {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 40px;
+    font-size: 20px;
+    justify-content: center;
+    justify-items: center;
+}
+
+blockquote {
+    font-size: 18px;
+    font-style: italic;
+    color: #808080;
+    margin: 20px;
+    border-left: solid 4px #808080;
+    padding-left: 20px;
+}
+
+/* === TESTING === */
+
+
+
+/* .menu-content {
+    max-height: 0;
+    overflow: hidden;
+    font-family: 'Oswald', sans-serif; 
+    padding: 0 0 0 50px;
+}
+.collapsible-menu {
+    background-color: #aaa;
+    padding: 0px 30px;
+    border-bottom: 3px solid red;
+    box-shadow: 1px 2px 3px rgba(0,0,0,0.2);
+}
+.collapsible-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+.collapsible-menu a {
+    display:block;
+    padding: 10px;
+    text-decoration: none;
+}
+.collapsible-menu label {
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 56px;
+    display: block;
+    cursor: pointer;
+    background: url(menu.png) no-repeat left center;
+    padding: 10px 0 10px 50px;
+}
+input#menu {
+    display: none;
+}
+input:checked +label {
+    background-image: url(close.png);
+}
+*/
+/* Toggle Effect */
+/* input:checked ~ label {
+    background-image: url(close.png);
+}
+input:checked ~ .menu-content {
+    max-height: 100%;
+}
+
+.menu-content {
+    transition: .25s ease-in-out;
+} */
+
+/* .collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+} */
+
+/* .active, .collapsible:hover {
+    background-color: #555;
+} */
+
+.nav-list {
+    /* padding: 0 18px; */
+    /* display: flex;
+    flex-direction: column; */
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    /* background-color: #f1f1f1; */
+}
+
+/* .collapsible::after {
+    transition: .25s ease-in-out;
+}
+
+.collapsible::before {
+    transition: .25s ease-in-out;
+} */
