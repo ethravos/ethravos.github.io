@@ -1,13 +1,13 @@
 ---
 title: People
-layout: base.html
+layout: layouts/page.html
+tag:
+    - pages
 ---
 # {{ title }}
 
-<div class="page-link-list">
 {% for people in collections.people %}
 
 [{{ people.data.title}}]({{ people.url }})
 
 {% endfor %}
-</div>

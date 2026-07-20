@@ -1,0 +1,12 @@
+<div class="nav-container">    
+    <nav class="nav-menu">
+        <div class="nav__list">
+            <li class="nav__item"><a href="/"><div class="home-icon"><i class="iconoir-home"></i></div></a></li>
+            {% for pages in collections.pages %}
+            <li class="nav__item"><a href="{{ pages.url }}">{{ pages.data.title}}</a></li>
+            {% endfor %}
+        </div>
+    </nav>
+    <span class="hamburger material-symbols-outlined">menu</span>
+</div>
+<script src="/scripts/nav.js"></script>

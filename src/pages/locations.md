@@ -1,13 +1,13 @@
 ---
 title: Locations
-layout: base.html
+layout: layouts/page.html
+tag:
+    - pages
 ---
 # {{ title }}
 
-<div class="page-link-list">
 {% for locations in collections.locations %}
 
 [{{ locations.data.title}}]({{ locations.url }})
 
 {% endfor %}
-</div>
