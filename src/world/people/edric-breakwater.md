@@ -1,0 +1,4 @@
+---
+title: Edric Breakwater
+---
+# {{ title }}

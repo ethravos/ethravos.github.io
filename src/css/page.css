@@ -1,0 +1,23 @@
+@import url(global.css);
+
+.page__link-list {
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.link-list__item {
+    background-color: var(--primary-green);
+    padding-inline: 10px;
+    min-width: 150px;
+    border-right: solid 4px var(--secondary-green);
+}
+
+.link-list__item a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    white-space: nowrap;
+}

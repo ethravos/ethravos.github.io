@@ -6,8 +6,10 @@ tag:
 ---
 # {{ title }}
 
+---
+
+<div class="page__link-list">
 {% for gods in collections.gods %}
-
-[{{ gods.data.title}}]({{ gods.url }})
-
+<div class="link-list__item"><a href="{{ gods.url }}">{{ gods.data.title}}</a></div>
 {% endfor %}
+<div>

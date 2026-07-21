@@ -3,6 +3,7 @@
     padding: .5rem;
     width: 200px;
     display: flex;
+    height: min-content;
 }
 
 .nav-menu {

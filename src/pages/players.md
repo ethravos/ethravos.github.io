@@ -6,8 +6,5 @@ tag:
 ---
 # {{ title }}
 
-{% for players in collections.players %}
+---
 
-[{{ players.data.title}}]({{ players.url }})
-
-{% endfor %}

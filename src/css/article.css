@@ -1,14 +1,7 @@
 /* IMPORTS */
 
 @import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
-@import url(nav.css);
 @import url(global.css);
-
-/* VARIABLES */
-
-:root {
-    --simple-outline: solid 1px #eee;
-}
 
 /* ARTICLE */
 
