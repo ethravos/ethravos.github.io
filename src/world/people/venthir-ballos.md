@@ -1,5 +1,6 @@
 ---
 title: Venthir Ballos
+aliases: Venthir Ballos
 ---
 # {{ title }}
 
