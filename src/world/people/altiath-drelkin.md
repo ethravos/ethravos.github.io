@@ -1,5 +1,6 @@
 ---
 title: Altiath-Drelkin
+image: https://i.pinimg.com/736x/a3/1a/50/a31a50d3a88c9b1f7bfab5ae26d1c812.jpg
 ---
 # {{ title }}
 
@@ -9,7 +10,7 @@ She was always strange and somewhat dark in how she presented herself. Altiath o
 
 One day, a year or so into their marriage, Altiath went to find her while she was on a walk and found her practicing necromancy to revive a dead doe.
 
-...(There was arguing and strife from thisbut eventually)...
+...(There was arguing and strife from this but eventually)...
 
 After Altiath learned the bond between nature and death from Jade, he began to slowly teach his students lessons that began to bleed into the topic. And, over time, he even began directly teaching some more promising students the craft directly.
 
@@ -17,7 +18,7 @@ The purpose of these lessons in conjunction to druidcraft was that life and deat
 
 In addition, both are necessary to specifically construct a bridge between the [[Material Plane]] and the [[Feywild]]. This also required a bridge to be formed to the [[Shadowfell]] as the three are inextricably linked.
 
-In his pursuit and studies of this phenomena, he encountered a researcher at the [[Guldrum Sol]], named [[Venthir Ballos]] who was looking into the same topic from a purely acedemic standpoint. Venthir warned Altiath of the [[Emerald Senate]] who he had only recently found out about. Days after this encounter, while Altiath was still in [[Guldrum Sol]], he went to visit Venthir and found his home abandoned with no word.
+In his pursuit and studies of this phenomena, he encountered a researcher at the [[Guldrum Sol]], named [[Venthir Baloss]] who was looking into the same topic from a purely acedemic standpoint. Venthir warned Altiath of the [[Emerald Senate]] who he had only recently found out about. Days after this encounter, while Altiath was still in [[Guldrum Sol]], he went to visit Venthir and found his home abandoned with no word.
 
 A month after Altiath's return to the [[Feylume Forest]], he was assassinated.
 

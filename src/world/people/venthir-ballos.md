@@ -1,6 +1,7 @@
 ---
-title: Venthir Ballos
-aliases: Venthir Ballos
+title: Venthir Baloss
+aliases: Venthir Baloss
+image: https://i.pinimg.com/vwebp/1200x/ed/ad/93/edad9346a296cde7856299e7f1f34ef2.webp
 ---
 # {{ title }}
 

@@ -1,5 +1,6 @@
 ---
 title: Lothren
+eleventyExcludeFromCollections: ["locations"]
 ---
 # {{ title }}
 
