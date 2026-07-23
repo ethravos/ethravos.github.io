@@ -1,0 +1,19 @@
+- [ ] properly fill out [[Venthir Baloss]]. need backstory and information.
+- [ ] edit [[Altiath]]
+- [ ] write reason for [[edric-breakwater]] and [[caelum-breakwater]] to be involved
+        I think a good idea would be for them to be working with the Emerald Senate for some kinds of resources.. maybe to keep people out of the feywild
+- [ ] learn more about "[Liquid](https://shopify.github.io/liquid/basics/introduction/)"
+- [ ] fix the banner image stuff \(this is an issue with the [base template](/src/index.md)\)
+- [ ] write description of the [[Ashwood Dryads]]
+- [ ] write physical description of [[whisper]]
+- [ ] compile notes for the sessions in the [\/Sessions](/src/sessions/) directory
+- [ ] write description for the world itself in the [[index]] file
+- [ ] figure out banner images... probably only include in the locations stuff. people should have a sidebar... or maybe locations should just have a sidebar thing too? im not really sure anymore
+- [ ] remove the stuff that the players havent encountered yet
+- [ ] write more details on the gods
+- [ ] write more details on the events
+- [ ] write a timeline for the world
+  - [ ] make this a unique page to reference as the players learn about the world
+  - [ ] make sure it can link to the pages for the events that it references
+- [ ] create pages for the players
+  - [ ] do the illustrations for the player characters

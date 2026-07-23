@@ -1,5 +1,8 @@
 ---
 title: Altiath-Drelkin
+aliases:
+    - Altiath
+    - Altiath Drelkin
 image: https://i.pinimg.com/736x/a3/1a/50/a31a50d3a88c9b1f7bfab5ae26d1c812.jpg
 ---
 # {{ title }}

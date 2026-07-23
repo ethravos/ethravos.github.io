@@ -1,4 +1,4 @@
-# INBOX
+# NOTES
 
 These are my notes. Players, if you are reading this, do not continue beyond this point...
 
