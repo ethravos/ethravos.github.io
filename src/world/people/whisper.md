@@ -4,12 +4,12 @@ aliases:
   - Bram Hillrow
 location: LoFera
 ---
-# {{ title }}
+
 
 - Farmer's son
 - Works as a bounty hunter, and occasionally an assassin, out of the city of [[LoFera]]
 - Mostly takes contracts further away, but his employer paid extra for an exception in the case of [[Altiath-Drelkin]]
-- He doesn't know the name or face of the people who hire him. He is known well within the city of [[Guldrum Sol]], and his employers leave the contracts within a post box in [[Guldrum Sol]]
+- He doesn't know the name or face of the people who hire him. He is known well within the city of [[Goldrum Sol]], and his employers leave the contracts within a post box in [[Goldrum Sol]]
 
 ---
 

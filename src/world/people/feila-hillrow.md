@@ -1,4 +1,3 @@
 ---
 title: Feila Hillrow
 ---
-# {{ title }}

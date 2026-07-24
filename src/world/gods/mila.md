@@ -1,6 +1,6 @@
 ---
 title: Mila
 ---
-# {{ title }}
 
-God of birth and growth
+
+God of transitions and growth.

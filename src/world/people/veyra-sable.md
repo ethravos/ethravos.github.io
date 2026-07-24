@@ -1,7 +1,7 @@
 ---
 title: Veyra Sable
 ---
-# {{ title }}
+
 
 Assissin within the [[Hollow Keys]].
 

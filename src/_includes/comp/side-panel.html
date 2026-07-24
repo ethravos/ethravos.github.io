@@ -1,0 +1,24 @@
+<div class="content__side">
+    <div class="side__about">
+        {% if category == "Location" %}
+            {% include "comp/location-info.html" %}
+        {% elseif category == "City" %}
+            {% include "comp/city-info.html" %}
+        {% elseif category == "People" %}
+            {% include "comp/people-info.html" %}
+        {% elseif category == "God" %}
+            {% include "comp/god-info.html" %}
+        {% elseif category == "Plane" %}
+            {% include "comp/plane-info.html" %}
+        {% elseif category == "Event" %}
+            {% include "comp/event-info.html" %}
+        {% else %}
+        <!--  -->
+        {% endif %}
+    </div>
+    <div class="side__links">
+        {% for link in backlinks %}
+            <div class="backlink">+ <a href="{{ link.url }}">{{ link.title }}</a></div>
+        {% endfor %}
+    </div>
+</div>

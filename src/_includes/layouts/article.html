@@ -12,17 +12,7 @@
                 <h1>{{ title }}</h1>
                 {{ content | safe }}
             </div>
-            <div class="content__side">
-                <div class="side__image">
-                    <img src="{{ image }}" alt="">
-                </div>
-                <div class="side__about">{{ about }}</div>
-                <div class="side__links">
-                    {% for link in backlinks %}
-                        <div class="backlink">+ <a href="{{ link.url }}">{{ link.title }}</a></div>
-                    {% endfor %}
-                </div>
-            </div>
+            {% include "comp/side-panel.html" %}
         </div>
     </div>
 </body>

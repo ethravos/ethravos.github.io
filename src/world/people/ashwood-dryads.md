@@ -6,7 +6,7 @@ aliases:
   - The Ashwood Grove
   - Wardens of the Feylume
 ---
-# {{ title }}
+
 
 Also known as the "Ashwood Grove" or "Wardens of the Feylume".
 

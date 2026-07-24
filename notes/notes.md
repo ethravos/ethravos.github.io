@@ -1,7 +1,10 @@
 # NOTES
 
-These are my notes. Players, if you are reading this, do not continue beyond this point...
+> These are my notes. Players, if you are reading this, do not continue beyond this point...
 
+---
+
+Assets to consider
 ---
 
 - ![library](https://i.pinimg.com/vwebp/1200x/39/9e/28/399e282045897b0dbdf445c0d6e8a2d0.webp)
@@ -14,4 +17,16 @@ These are my notes. Players, if you are reading this, do not continue beyond thi
 - ![library alt 6](https://i.pinimg.com/vwebp/1200x/c5/eb/fd/c5ebfdcf822b3169b58202df18f76da1.webp)
 - ![library alt 7](https://i.pinimg.com/736x/3d/39/f5/3d39f5d406634c78db4ce7128f9d7dcb.jpg)
 - ![Venthir option 1](https://i.pinimg.com/vwebp/1200x/ed/ad/93/edad9346a296cde7856299e7f1f34ef2.webp)
-- 
+
+---
+
+Ideas for components
+---
+
+- people info
+- city info
+- location info
+- event info?
+- god info
+- card
+- spoiler dropdown

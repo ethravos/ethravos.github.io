@@ -1,6 +1,7 @@
 /* IMPORTS */
 
-@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 @import url(nav.css);
 @import url(variables.css);
 
@@ -15,12 +16,29 @@
 body {
     background-color: #111;
     color: #eee;
-    font-family: "Grenze Gotisch", serif;
+    font-family: "Bree Serif", serif;
+    font-size: 1rem;
 }
 
 header {
     background-color: #194a25;
     padding: .5rem;
+}
+
+h1, h2, h3 {
+    font-family: "Grenze Gotisch";
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
 }
 
 .banner_image {
@@ -61,4 +79,10 @@ a {
 
 hr {
     margin-block: .5rem;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: var(--simple-outline);
+    padding-left: 1rem;
 }

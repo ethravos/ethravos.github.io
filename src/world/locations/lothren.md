@@ -2,7 +2,7 @@
 title: Lothren
 eleventyExcludeFromCollections: ["locations"]
 ---
-# {{ title }}
+
 
 **Etymology / Meaning**:
 **General Description**:

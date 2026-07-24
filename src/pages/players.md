@@ -4,7 +4,4 @@ layout: layouts/page.html
 tag:
     - pages
 ---
-# {{ title }}
-
----
 

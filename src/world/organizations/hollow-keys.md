@@ -2,25 +2,25 @@
 title: Hollow Keys
 aliases: The Hollow Keys
 ---
-# {{ title }}
 
-An assassin and theives guild that exists primarily in [[Guldrum Sol]]. They also have a satellite group within [[LoFera]] that [[Whisper]] runs
+
+An assassin and theives guild that exists primarily in [[Goldrum Sol]]. They also have a satellite group within [[LoFera]] that [[Whisper]] runs
 
 They typically agree to any and all "commissions" regardless of results. They hold no moral or political opinions or direction. In fact, they do not generally employ anyone with any kind of political or moral direction. They think of their industry as a utility that is primarily concerned with the generation of income. One of their rules is that they do not want to know who employs them if possible and they require the omission of any reason or purpose for the contract.
 
-They are most known for assassination in Guldrum Sol, though they do also steal and smuggle almost as frequently. In LoFera, they are more frequently employed for jobs in the nearby area. Smuggling and theiving jobs being more common in the area and preferred by the head of the guild.
+They are most known for assassination in Goldrum Sol, though they do also steal and smuggle almost as frequently. In LoFera, they are more frequently employed for jobs in the nearby area. Smuggling and theiving jobs being more common in the area and preferred by the head of the guild.
 
 ---
 
 ### [[Hollow Keys]]
 
-- Exist primarily in [[Guldrum Sol]]
+- Exist primarily in [[Goldrum Sol]]
 - Also have a satellite group within [[LoFera]] that Whisper runs
 - They typically agree to any and all "commissions" regardless of results. They hold no moral or political opinions or direction.
 	- In fact, they do not generally employ anyone with any kind of political or moral direction
 	- They think of their industry as a utility that is primarily concerned with the generation of income
 	- One of their rules is that they do not want to know who employs them if possible and they require the omission of any reason or purpose for the contract
-- They are most known for assassination in Guldrum Sol, though they do also steal and smuggle almost as frequently.
+- They are most known for assassination in Goldrum Sol, though they do also steal and smuggle almost as frequently.
 - In LoFera, they are more frequently employed for jobs in the nearby area. Smuggling and theiving jobs being more common in the area.
 - 
 

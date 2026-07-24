@@ -2,7 +2,7 @@
 title: LoFera
 image: https://i.pinimg.com/736x/13/a0/59/13a05956b0e81977b8de088111175520.jpg
 ---
-# {{ title }}
+
 
 > _The Shaded City_
 

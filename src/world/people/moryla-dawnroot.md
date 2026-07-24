@@ -1,4 +1,3 @@
 ---
 title: Moryla Dawnroot
 ---
-# {{ title }}

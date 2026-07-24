@@ -1,4 +1,3 @@
 ---
 title: Willen Mossacre
 ---
-# {{ title }}

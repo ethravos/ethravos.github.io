@@ -4,4 +4,3 @@ aliases:
   - Underworld
 eleventyExcludeFromCollections: ["locations"]
 ---
-# {{ title }}
