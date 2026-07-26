@@ -6,6 +6,11 @@
     flex-direction: column;
     gap: var(--base-padding);
     font-size: 14px;
+    z-index: 10;
+}
+
+.content__side {
+    background-color: #000;
 }
 
 .side__image {
@@ -62,22 +67,8 @@ tr {
 }
 
 @media (max-width: 700px) {
-    .content-wrapper {
-        flex-direction: column;
-        margin: 0;
-    }
-
-    .content__body {
-        order: 2;
-    }
-
-    .content__side {
-        order: 1;
-        width: 100% !important;
-    }
-
     .side__image {
-        width: calc(100vw - 35px) !important;
-        height: calc(100vw - 35px) !important;;
+        width: calc(100vw - 20px);
+        height: calc(100vw - 20px);
     }
 }
