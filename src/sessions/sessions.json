@@ -1,4 +1,4 @@
 {
-    "layout": "layouts/base.html",
+    "layout": "layouts/session.html",
     "tags": "sessions"
 }

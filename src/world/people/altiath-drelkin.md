@@ -27,5 +27,6 @@ A month after Altiath's return to the [[Feylume Forest]], he was assassinated.
 
 ## Altiath-Drelkin Assassination
 
-It was an assassin woman who goes by [[The Silver Pin]]. Her real name being [[Veyra Sable]].
+It was an assassin woman who goes by [[The Silver Pin]]. 
+<!-- Her real name being [[Veyra Sable]]. -->
 She was hired by [[The Emerald Senate]] to snuff out [[Altiath-Drelkin]] who was in the process of teaching his students necromancy.

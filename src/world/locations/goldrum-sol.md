@@ -9,7 +9,6 @@ religion: "Diverse but sparse. There are multiple temples in the city but religi
 notable_locations: "Goldrum Sol Library"
 other_notes: "Headquarters to the Hollow Keys."
 ---
-<!-- {% include "comp/city-info.html" %} -->
 
 > The Bridge City
 

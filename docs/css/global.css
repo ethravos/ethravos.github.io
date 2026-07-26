@@ -70,13 +70,6 @@ a {
     text-decoration: none;
 }
 
-@media (max-width: 700px) {
-    .main-wrapper {
-        flex-direction: column;
-        margin: 0px;
-    }
-}
-
 hr {
     margin-block: .5rem;
 }
@@ -85,4 +78,32 @@ blockquote {
     font-style: italic;
     border-left: var(--simple-outline);
     padding-left: 1rem;
+}
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+    .main-wrapper {
+        flex-direction: column;
+        margin: 0px;
+    }
+
+    .content-wrapper {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .content__body {
+        order: 2;
+    }
+
+    .content__side {
+        order: 1;
+        width: 100% !important;
+    }
+
+    .side__image {
+        width: calc(100vw - 35px) !important;
+        height: calc(100vw - 35px) !important;;
+    }
 }
