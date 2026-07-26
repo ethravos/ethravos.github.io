@@ -1,12 +1,14 @@
 ---
 title: Ashwood Dryads
+category: Organization
 aliases:
   - The Ashwood Dryads
   - Ashwood Grove
   - The Ashwood Grove
   - Wardens of the Feylume
+image: https://i.imgur.com/G8FrHEA.png
 ---
-
+{% include "comp/image-restyle.html" %}
 
 Also known as the "Ashwood Grove" or "Wardens of the Feylume".
 

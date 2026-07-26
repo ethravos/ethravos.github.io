@@ -1,11 +1,12 @@
 ---
 title: Altiath-Drelkin
+category: People
 aliases:
     - Altiath
     - Altiath Drelkin
 image: https://i.pinimg.com/736x/a3/1a/50/a31a50d3a88c9b1f7bfab5ae26d1c812.jpg
 ---
-
+{% include "comp/image-restyle.html" %}
 
 Born a druid within the [[Ashwood Dryads]], Altiath lived a simple and modest life until his teen years. Then, as a young adult, he met the half-elf [[Jade Losina]], who he would later marry. She was from outside the grove and was very unfamiliar with druidcraft. The grove did not take kindly to her at first but overtime, her kind heart and gentle demeanor grew an understanding and acceptance with the community.
 
@@ -19,14 +20,16 @@ After Altiath learned the bond between nature and death from Jade, he began to s
 
 The purpose of these lessons in conjunction to druidcraft was that life and death were interlinked. And so, with this knowledge and a combination of both practices, that connection can be used to better serve the natural flow of all living (and dead things).
 
-In addition, both are necessary to specifically construct a bridge between the [[Material Plane]] and the [[Feywild]]. This also required a bridge to be formed to the [[Shadowfell]] as the three are inextricably linked.
+In addition, both are necessary to specifically construct a bridge between the [[Material Plane]] and the [[Feywild]]. This also requires a bridge to be formed to the [[Shadowfell]] as the three are inextricably linked.
 
-In his pursuit and studies of this phenomena, he encountered a researcher at the [[Goldrum Sol]], named [[Venthir Baloss]] who was looking into the same topic from a purely acedemic standpoint. Venthir warned Altiath of the [[Emerald Senate]] who he had only recently found out about. Days after this encounter, while Altiath was still in [[Goldrum Sol]], he went to visit Venthir and found his home abandoned with no word.
+
+In his pursuit of this goal, and in his need for further study, he found his way to the [[Goldrum Sol|Goldrum Sol Library]]...
+<!-- In his pursuit and studies of this phenomena, he encountered a researcher at the [[Goldrum Sol|Goldrum Sol Library]], named [[Venthir Baloss]] who was looking into the same topic from a purely acedemic standpoint. Venthir warned Altiath of the [[Emerald Senate]] who he had only recently found out about. Days after this encounter, while Altiath was still in [[Goldrum Sol]], he went to visit Venthir and found his home abandoned with no word. -->
 
 A month after Altiath's return to the [[Feylume Forest]], he was assassinated.
 
 ## Altiath-Drelkin Assassination
 
-It was an assassin woman who goes by [[The Silver Pin]]. 
+The assassin is now know to be a woman who goes by the alias "[[The Silver Pin]]". 
 <!-- Her real name being [[Veyra Sable]]. -->
-She was hired by [[The Emerald Senate]] to snuff out [[Altiath-Drelkin]] who was in the process of teaching his students necromancy.
+She was hired by [[The Emerald Senate]] to snuff out [[Altiath-Drelkin]] while he was researching building a bridge to the [[Feywild]].

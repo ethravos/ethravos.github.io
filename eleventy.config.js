@@ -6,6 +6,13 @@ import interlinker from "@photogabble/eleventy-plugin-interlinker";
 
 export default function (eleventyConfig) {
 
+    eleventyConfig.addPreprocessor("drafts", "njk,md,liquid", (data, content) => {
+		if(data.draft) {
+			// Ignore this file.
+			return false;
+		}
+    });
+
     eleventyConfig.addPlugin(interlinker);
 
     // MARKDOWN-IT

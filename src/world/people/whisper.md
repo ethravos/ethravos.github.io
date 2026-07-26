@@ -8,37 +8,16 @@ organizations: Hollow Keys
 class:
 image: https://i.pinimg.com/1200x/31/e4/0a/31e40a75f357b43aa999377c95666262.jpg
 ---
-
+{% include "comp/image-restyle.html" %}
 
 <!-- - Farmer's son -->
 <!-- - Works as a bounty hunter, and occasionally an assassin, out of the city of [[LoFera]] -->
 - Mostly takes contracts further away, but his employer paid extra for an exception in the case of [[Altiath-Drelkin]]
-- He doesn't know the name or face of the people who hire him. He is known well within the city of [[Goldrum Sol]], and his employers leave the contracts within a post box in [[Goldrum Sol]]
-
----
-
-[[Whisper]]
-
-- Real name is [[Whisper|Bram Hillrow]]
 - Works for the [[Hollow Keys]], managing the LoFera branch of the Hollow Keys.
-- He thought that he would be able to manage as he was previously a great thief and smuggler for the Hollow Keys.
-- With the LoFera branch under his watch, he has tried as best he can to mitigate and deny as many requests with ill intent as he could.
-- But, in recent years, the [[Master Key]] has been pressuring him for larger returns and more contracts.
-- One of these being the contract accepted for the assassination of [[Altiath-Drelkin]].
+- With the LoFera branch under his watch, he has tried as best he can to mitigate and deny as many requests as he could which gave a clear political incentive.
+<!-- - But, in recent years, the [[Master Key]] has been pressuring him for larger returns and more contracts. -->
+<!-- - One of these being the contract accepted for the assassination of [[Altiath-Drelkin]]. -->
+<!-- - He thought that he would be able to manage as he was previously a great thief and smuggler for the Hollow Keys. -->
+<!-- - He doesn't know the name or face of the people who hire him. He is known well within the city of [[Goldrum Sol]], and his employers leave the contracts within a post box in [[Goldrum Sol]] -->
+<!-- - Real name is [[Whisper|Bram Hillrow]] -->
 
-<!-- === -->
-
-<!-- STYLE IMAGE -->
-
-<style>
-.side__image {
-    position: relative;
-}
-
-.side__image img {
-    position: absolute;
-    top: 0px;
-    object-fit: cover;
-    width: 100%
-}
-</style>

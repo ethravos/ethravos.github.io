@@ -1,6 +1,7 @@
 ---
 title: Lothren
 eleventyExcludeFromCollections: ["locations"]
+draft: true
 ---
 
 

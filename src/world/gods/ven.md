@@ -23,5 +23,6 @@ god_siblings:
     - Mora
     - Mila
 ---
+{% include "comp/image-restyle.html" %}
 
 > {{ about }}

@@ -4,6 +4,7 @@ aliases:
   - The Emerald Senate
   - Emerald Petal
   - The Emerald Petal
+draft: true
 ---
 
 # The Emerald Senate

@@ -1,9 +1,13 @@
 ---
 title: LoFera
 image: https://i.pinimg.com/736x/13/a0/59/13a05956b0e81977b8de088111175520.jpg
+category: City
+size: "Medium"
+population: "8,000"
+government: "Localized Democracy"
+religion: "Primarily worshiping gods of nature, life, or lower spirits. LoFera has it's own style of \"religion.\""
+other_notes: "Whispers home."
 ---
-
-
 > _The Shaded City_
 
 LoFera is woven into the forest rather than built atop or carved out of it. Saturating the [[Feylume Forest]] are vast, ancient, and beautiful trees. The streets and plazas are woven around and through their trunks. Over the centuries, the builders and architects of the city have even frequently used the trunks and branches to grow and form living bridges, struts, balconies, pillars, studs, doorways, etc.
@@ -14,30 +18,12 @@ The air smells of moss, sap, and recent rain, even though it has yet to rain in 
 
 Sounds of birds and insects fill the air blending naturally with soft hum of the billowing ceiling of branches and leaves above. Gentle melodies of enchanted wooden wind-chimes dot the space from from random directions.
 
-## Commerce
+### Taverns & Inns:
+[[The Swaying Bough]] is a popular tavern and inn within the city of LoFera.
+[[The Lantern And Thistle]]
+[[The Hollow Cask]]
 
-Taverns & Inns:
+### Politics:
+The people of LoFera are generally uninterested in most political endeavors beyond what is necessary for basic local governance.
 
-- The Swaying Bough ^The-Swaying-Bough
-	- Tavern & Inn
-	- 
-
-Law
-
-
-
-Politics:
-The people of LoFera are generally uninterested in most political fields beyond what is necessary.
-
-There is a counsil
-
-
-Taverns / Inns:
-
-The Lantern & Thistle
-
-The Fox & Fern
-
-The Hollow Cask
-
-remove equipment from shelf
+There is democratically elected counsil. However, they rarely meet.
