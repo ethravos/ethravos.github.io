@@ -1,0 +1,121 @@
+.nav-container {
+    position: sticky;
+    background-color: #194a25;
+    padding: .5rem;
+    width: 200px;
+    display: flex;
+    height: min-content;
+}
+
+.nav-menu {
+    width: 100%;
+    transition: all 0.15s ease-in-out;
+}
+
+.nav__list {
+    width: 100%;
+    list-style: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.15s ease-in-out;
+}
+
+.nav__item {
+    padding: 6px;
+    flex: 1;
+}
+
+.nav__item:hover {
+    cursor: pointer;
+    background-color: #00000080;
+}
+
+.nav__item a {
+    text-decoration: none;
+    color: inherit;
+    font-size: large;
+    display: block;
+}
+
+.home-icon {
+    padding: 10px;
+    background-color: #00000080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hamburger {
+    display: none !important;
+    cursor: pointer;
+}
+
+.nav__list.active {
+    transition-property: display;
+    transition: 0.15s ease-in-out;
+}
+
+@media (max-width: 700px) {
+
+    .nav-container {
+        /* position: absolute; */
+        overflow: hidden;
+        width: auto;
+        height: min-content;
+        position: sticky;
+        top: 0;
+        z-index: 0;
+    }
+
+    .nav-menu {
+        max-height: 0;
+    }
+
+    .hamburger {
+        display: block !important;
+        z-index: 2;
+    }
+
+    .nav__list {
+        /* height: min-content; */
+        flex-direction: column;
+        max-height: 0;
+        overflow: hidden;
+        margin: 0;
+
+        top: 0;
+        bottom: 0;
+        width: 100%;
+
+        /* padding: 4rem 3rem; */
+        padding-top: 32px;
+        padding-right: 24px;
+        padding-bottom: 24px;
+        background-color: #194a25;
+        color: white;
+
+        transition: all 0.15s ease-in-out;
+    }
+
+    .nav__item {
+        /* padding-bottom: 20px; */
+        flex: content;
+        padding: 4px;
+    }
+
+    .nav__item:hover {
+        cursor: pointer;
+        background-color: unset;
+    }
+
+    .nav__list.active {
+        max-height: fit-content;
+        transition: all 0.15s ease-in-out;
+    }
+
+    .nav-menu.active {
+        max-height: none;
+        transition: all 0.15s ease-in-out;
+    }
+}

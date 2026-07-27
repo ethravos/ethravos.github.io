@@ -1,0 +1,110 @@
+/* IMPORTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@import url(nav.css);
+@import url(variables.css);
+
+/* MAIN */
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #111;
+    color: #eee;
+    font-family: "Bree Serif", serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+header {
+    background-color: #194a25;
+    padding: .5rem;
+}
+
+h1, h2, h3 {
+    font-family: "Grenze Gotisch";
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+.banner_image {
+    height: 200px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    /* border: solid 1px #fff; */
+}
+
+.banner_image img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    object-fit: cover;
+}
+
+.main-wrapper {
+    display: flex;
+    margin: 2rem;
+}
+
+.content-wrapper {
+    margin: 0 1rem;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    margin-block: .5rem;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: var(--simple-outline);
+    padding-left: 1rem;
+}
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+    .main-wrapper {
+        flex-direction: column;
+        margin: 0px;
+    }
+
+    .content-wrapper {
+        flex-direction: column;
+        margin: 0;
+    }
+
+    .content__body {
+        order: 2;
+    }
+
+    .content__side {
+        order: 1;
+        width: 100% !important;
+    }
+
+    /* .side__image {
+        width: calc(100vw - 35px) !important;
+        height: calc(100vw - 35px) !important;
+    } */
+}
