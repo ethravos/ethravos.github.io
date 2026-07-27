@@ -24,7 +24,9 @@ In addition, both are necessary to specifically construct a bridge between the [
 
 
 In his pursuit of this goal, and in his need for further study, he found his way to the [[Goldrum Sol|Goldrum Sol Library]]...
-<!-- In his pursuit and studies of this phenomena, he encountered a researcher at the [[Goldrum Sol|Goldrum Sol Library]], named [[Venthir Baloss]] who was looking into the same topic from a purely acedemic standpoint. Venthir warned Altiath of the [[Emerald Senate]] who he had only recently found out about. Days after this encounter, while Altiath was still in [[Goldrum Sol]], he went to visit Venthir and found his home abandoned with no word. -->
+<!-- 
+In his pursuit and studies of this phenomena, he encountered a researcher at the [[Goldrum Sol|Goldrum Sol Library]], named [[Venthir Baloss]] who was looking into the same topic from a purely acedemic standpoint. Venthir warned Altiath of the [[Emerald Senate]] who he had only recently found out about. Days after this encounter, while Altiath was still in [[Goldrum Sol]], he went to visit Venthir and found his home abandoned with no word. 
+-->
 
 A month after Altiath's return to the [[Feylume Forest]], he was assassinated.
 

@@ -28,7 +28,7 @@ The library within Goldrum Sol is one of the largest collections of knowledge in
 
 ## The Delvan Academy
 
-The Delvan Academy was initially founded by  around 20 years prior to the construction of their library
+The Delvan Academy was initially founded by around 20 years prior to the construction of their library
 
 ## History
 

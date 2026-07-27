@@ -14,7 +14,7 @@ Also known as the "Ashwood Grove" or "Wardens of the Feylume".
 
 ## Description
 
-The grove seems to almost rest in an invisible plate that the forest around yields to. Vines and long tendrals of twisted stone and wood construct nearly every structure. Leaves and trailing plants drape chaotically over nearly every surface, becoming especially thick aroun the doorways leading into most structures.
+The grove seems to almost rest in an invisible plate that the forest around yields to. Vines and long tendrals of twisted stone and wood construct nearly every structure. Leaves and trailing plants drape chaotically over nearly every surface, becoming especially thick around the doorways leading into most structures.
 
 There is a large, damaged, but very alive, gnarled oak tree toward the center of the mostly circular plot of land.
 
