@@ -6,6 +6,7 @@ aliases:
   - Ashwood Grove
   - The Ashwood Grove
   - Wardens of the Feylume
+  - the grove
 image: https://i.imgur.com/G8FrHEA.png
 ---
 {% include "comp/image-restyle.html" %}
