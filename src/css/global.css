@@ -64,8 +64,9 @@ h3 {
 }
 
 .content-wrapper {
-    margin: 0 1rem;
+    margin-left: 1rem;
     width: 100%;
+    /* overflow: hidden; */
 }
 
 a {
@@ -80,6 +81,20 @@ blockquote {
     font-style: italic;
     border-left: var(--simple-outline);
     padding-left: 1rem;
+}
+
+.banner {
+    display: flex;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.banner img {
+    width: 100%;
+    object-fit: cover;
 }
 
 /* MOBILE */

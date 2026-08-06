@@ -5,6 +5,6 @@ banner_image: https://img.magnific.com/free-photo/purple-blue-cosmic-nebula-with
 ---
 The World of Ethravos is vast, mysterious, magical, horrific, wonderful, and surreal.
 
-{% if page.banner_image != 0 %}
+<!-- {% if page.banner_image != 0 %}
 <div class="banner_image"><img src="{{ banner_image }}" alt=""></div>
-{% endif %}
+{% endif %} -->
