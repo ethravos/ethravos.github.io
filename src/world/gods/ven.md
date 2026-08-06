@@ -21,7 +21,6 @@ god_siblings:
     - Vaelum
     - Vaelos
     - Mora
-    - Mila
 ---
 {% include "comp/image-restyle.html" %}
 
