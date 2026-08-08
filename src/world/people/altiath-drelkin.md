@@ -36,11 +36,3 @@ The assassin is now know to be a woman who goes by the alias "[[The Silver Pin]]
 <!-- Her real name being [[Veyra Sable]]. -->
 She was hired by [[The Emerald Senate]] to snuff out [[Altiath-Drelkin]] while he was researching building a bridge to the [[Feywild]].
 
-{%
-Card 
-label="Test", 
-link="https://google.com", 
-linkText="Testing", 
-desc="Description", 
-img="https://i.pinimg.com/1200x/61/5a/f4/615af47cb652f498249b17dd68837e4e.jpg"
-%}
