@@ -1,7 +1,8 @@
 // IMPORTS
 import markdownIt from "markdown-it";
 import interlinker from "@photogabble/eleventy-plugin-interlinker";
-
+import Card from "./src/_includes/comp/inline/card.cjs";
+// const Card = require('./src/_includes/comp/inline/card')
 // MAIN CONFIG
 
 export default function (eleventyConfig) {
@@ -29,6 +30,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/css");
     eleventyConfig.addPassthroughCopy("src/assets/");
     eleventyConfig.addPassthroughCopy("src/scripts/");
+    eleventyConfig.addShortcode("Card", Card);
     
     return {
         dir: {
