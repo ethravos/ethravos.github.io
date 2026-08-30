@@ -18,13 +18,19 @@ The group will talk with venthir about how he knows verdant, what happened with 
 
 #### [[Venthir]] and [[Whisper]]:
 
-> Should any of the group ask why Venthir was removed from his position as a professor at the academy, it's because he was also researching the possibility of building a permanent bridge into the feywild. This research actually began shortly after his student, [[Whisper]], also did a research paper when he was attending. That research paper was on a specific flora that could be eaten and, in one bite, supply the person who eats it with the same nutrition and energy as an entire meal. The main reason this could be so useful is that the flora can grow very quickly, with very little effort, and lasts for years (or possibly forever) without spoiling. Unfortunately, it seems that it can only be grown and harvested within the Feywild.
+> Should any of the group ask why Venthir was removed from his position as a professor at the academy, it's because he was also researching the possibility of building a permanent bridge into the feywild. This research actually began shortly after his student, [[Whisper]], also did a research paper when he was attending. That research paper was on a specific flora that could be eaten and, in one bite, supply the person who eats it with the same nutrition and energy as an entire meal. The main reason this could be so useful is that the flora can grow very quickly, with very little effort, and lasts for years (or possibly forever) without spoiling. Unfortunately, it seems that it can only be grown and harvested within specific areas in the Feywild.
 
-> The flora is excedingly rare even in the feywild, and practically impossible to find outside of the feywild. However, should it work, it could be a very real and practical solution to hunger around the world.
+> The flora is exceedingly rare, even in the feywild, and practically impossible to find outside of the feywild. However, should it work, it could be a very real and practical solution to hunger around the world.
 
 > Soon after Whisper did his research into this topic --as his primary degree was going to be in extraplanar botany-- he left the academy. Venthir then, having read Whisper's research, decided to look into it further.
 
+---
 
+### Sequence of Events
+
+- venthir becomes a professor
+- whisper becomes a student
+- whisper begins research and presentation on 
 
 ---
 # FOOTER
